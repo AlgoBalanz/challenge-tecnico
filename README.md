@@ -5,7 +5,7 @@
 El challenge técnico consiste en desarrollar una pantalla como la siguiente:
 
 <p align="center">
-  <img src="https://via.placeholder.com/468x300?text=Pantalla+a+desarrollar" alt="Pantalla a desarrollar"/>
+  <img src="https://i.imgur.com/XSl2agl.jpeg" alt="Pantalla a desarrollar"/>
 </p>
 
 ## :page_facing_up: Datos
