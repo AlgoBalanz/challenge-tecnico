@@ -4,9 +4,7 @@
 
 El challenge técnico consiste en desarrollar una pantalla como la siguiente:
 
-<p align="center">
-  <img src="https://via.placeholder.com/468x300?text=Pantalla+a+desarrollar" alt="Pantalla a desarrollar"/>
-</p>
+![Pantalla a desarrollar](https://via.placeholder.com/468x300?text=Pantalla+a+desarrollar)
 
 ## :page_facing_up: Datos
 
@@ -26,14 +24,12 @@ https://binance-docs.github.io/apidocs/spot/en/#websocket-market-streams
 
 Los pares que se deberán utilizar son los siguientes:
 
-<center>
 
 |         |           |          |          |          |
 |---------|-----------|----------|----------|----------|
 | BTCBUSD | ETHBUSD   | BNBBUSD  | LUNABUSD | SOLBUSD  |
 | LTCBUSD | MATICBUSD | AVAXBUSD | XRPBUSD  | BUSDUSDT |
 
-</center>
 
 >El CCL que se deberá usar es 200 (constante)
 
